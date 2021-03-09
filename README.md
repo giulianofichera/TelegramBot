@@ -1,5 +1,5 @@
 # ---- TelegramBot ----
-# This bot presents cryptocurrency data in a compact, human readable way.
+# This bot uses CryptoBot to show cryptocurrency data in a compact, human readable way in a Telegram chat at the users request.
 ##
 ##
 ## Commands:
