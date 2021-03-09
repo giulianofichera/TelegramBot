@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(0, '/Users/giulianofichera/Documents/Python Projects/CryptoBot/CryptoBot')
+sys.path.insert(0, '/Users/giulianofichera/Documents/Python Projects/CryptoBot')
 from btc_usdc import info_btc_usdc
 from usdc_ars import info_usdc_ars
 from telegram.ext import Updater, CommandHandler, MessageHandler
